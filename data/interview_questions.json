@@ -1,0 +1,62 @@
+{
+    "Java": [
+        "What is the difference between JDK, JRE and JVM?",
+        "What are the main principles of OOP?",
+        "Does Java support multiple inheritance?",
+        "What is method overloading?",
+        "What is method overriding?",
+        "What is the difference between Array and ArrayList?",
+        "What is exception handling in Java?",
+        "What is the difference between checked and unchecked exceptions?",
+        "What is the difference between String, StringBuilder and StringBuffer?",
+        "What is the difference between HashMap and HashSet?"
+    ],
+    "React": [
+        "What is React?",
+        "What is the difference between props and state?",
+        "What are React hooks?",
+        "What is useState?",
+        "What is useEffect?",
+        "What is the Virtual DOM?",
+        "What is component reusability?",
+        "What is conditional rendering?",
+        "What is the difference between controlled and uncontrolled components?",
+        "How does React communicate with a backend?"
+    ],
+    "Node.js": [
+        "What is Node.js?",
+        "Why is Node.js called non-blocking?",
+        "What is the event loop?",
+        "What is npm?",
+        "What is Express.js?",
+        "What is middleware?",
+        "How do you create a REST API using Express?",
+        "How do you handle errors in Express?",
+        "What is JWT authentication?",
+        "How does Node.js communicate with MongoDB?"
+    ],
+    "MERN Stack": [
+        "What is the MERN stack?",
+        "How does React communicate with Node.js?",
+        "What is REST API?",
+        "What is middleware in Express?",
+        "What is MongoDB?",
+        "What is the difference between SQL and MongoDB?",
+        "How does JWT authentication work?",
+        "How would you design a login system?",
+        "How would you deploy a MERN application?",
+        "How would you improve the performance of a MERN application?"
+    ],
+    "Python": [
+        "What are the main features of Python?",
+        "What is the difference between list and tuple?",
+        "What is a dictionary in Python?",
+        "What are Python decorators?",
+        "What is exception handling?",
+        "What is the difference between == and is?",
+        "What are lambda functions?",
+        "What is list comprehension?",
+        "What is inheritance in Python?",
+        "What is the difference between shallow copy and deep copy?"
+    ]
+}
